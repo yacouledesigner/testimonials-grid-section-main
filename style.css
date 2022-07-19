@@ -274,7 +274,7 @@ body{
     .bloc-a {
         /* border: 1px solid black; */
         width: 90%;
-        height: 40%;
+        height: 55%;
         background-color: var(--Moderate-violet);
         border-radius: 0.3rem;
         box-shadow: 0 0 10px var(--Light-gray);
@@ -306,7 +306,7 @@ body{
     .bloc-b {
         /* border: 1px solid black; */
         width: 90%; 
-        height: 25%;
+        height: 33%;
         background-color: var(--Very-dark-grayish-blue);
         border-radius: 0.3rem;
         box-shadow: 0 0 10px var(--Light-gray);
@@ -327,7 +327,7 @@ body{
     .bloc-c {
         /* border: 1px solid black; */
         width: 90%;
-        height: 25%;
+        height: 33%;
         background-color: var(--white);
         border-radius: 0.3rem;
         box-shadow: 0 0 10px var(--Light-gray);
@@ -345,7 +345,7 @@ body{
     .bloc-d {
         /* border: 1px solid black; */
         width: 90%;
-        height: 38%;
+        height: 50%;
         background-color: var(--Very-dark-blackish-blue);
         border-radius: 0.3rem;
         box-shadow: 0 0 10px var(--Light-gray);
@@ -355,11 +355,11 @@ body{
     .container-bloc-2 {
         /* border: 1px solid green; */
         width: 63%;
-        height: 50%;
+        height: 67%;
         background-color: var(--white);
         border-radius: 0.3rem;
         box-shadow: 0 0 10px var(--Light-gray);
-        margin-top: 250px;
+        margin-top: 450px;
         margin-left: 10%;
     }
 
